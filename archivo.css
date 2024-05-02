@@ -4,7 +4,22 @@ html, body {
   min-height: 100%;
   min-width: 100%;
   padding: 0;
+  font-family: "Source Sans 3", sans-serif;
 }
+.titulo {
+  font-family: "Headland One", serif;
+}
+
+.tipo {
+  font-family: "Headland One", serif;
+}
+
+
+.bienvenida {
+  font-family: "Headland One", serif;
+  font-size: 28px;
+}
+
 
 body {
   background-color: #232946;
@@ -79,6 +94,7 @@ nav ul {
   top: -3014px;
   width: 127px;
   height: 71px;
+  margin-right: 40px;
 text-align: center;
 color: #232946;
   font-size: xx-large;
@@ -174,6 +190,7 @@ footer {
 }
 
 .servicios1 {
+  font-family: "Headland One", serif;
   left: 1275px;
   top: -2001px;
   width: 1225px;
@@ -192,6 +209,7 @@ footer {
 }
 
 .servicios2 {
+  font-family: "Headland One", serif;
   left: 1275px;
   top: -2001px;
   width: 1225px;
@@ -210,6 +228,7 @@ footer {
 }
 
 .propuesta {
+  font-family: "Headland One", serif;
   left: 1275px;
   top: -2001px;
   width: 1225px;
@@ -225,7 +244,16 @@ footer {
   display: block;
   margin-top: 45px;
 }
+.mision {
+  font-family: "Headland One", serif;
+}
+.vision{
+  font-family: "Headland One", serif;
+}
 
+footer {
+  font-family: "Headland One", serif;
+}
 .header-menu {
   text-align: center;
   font-size: x-large;
